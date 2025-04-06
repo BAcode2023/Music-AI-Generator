@@ -1,7 +1,9 @@
 # Music-AI-Generator
 
 Music Generator AI Plans
+
 Phase 1: Conceptualization & Planning
+
 Tech stack: django, react,vite, python, sql, css, typescript or javascript
 1. Define the Purpose
 Goal: Develop an AI-powered web application that generates music based on user input (genre, mood, tempo, etc.) and allows the user to edit the generated music (adjust pitch, tempo, add/remove instruments, and apply effects).
